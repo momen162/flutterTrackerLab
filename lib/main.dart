@@ -4,6 +4,7 @@ import 'problem_2.dart';
 import 'problem_3.dart';
 import 'problem_4.dart';
 import 'problem_5.dart';
+import 'problem_6.dart';
 
 
 void main() {
@@ -21,7 +22,8 @@ class MyApp extends StatelessWidget {
         //Problem_2(),
         //Problem_3(),
         //Problem_4(),
-        Problem_5(),
+        //Problem_5(),
+        Problem_6(),
     );
   }
 }
